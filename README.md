@@ -4,12 +4,14 @@
 
 ### Group Members
 
+| SI. No | Name | Role |
+|-|-|-|
+| 1 |  Akshay R | Group Leader & Project Coordination |
+| 2 |  Akshaysree Kalarickal | Mathematical Analysis & Fourier Series |
+| 3 |  Benson K Binu | Python Implementation |
+| 4 |  Hargovind K R | Data Visualization & Graph Analysis |
+| 5 |  Gautham A | Documentation & Testing |
 
-| 1 | Akshay R | Group Leader & Project Coordination |
-| 2 | Akshaysree Kalarickal | Mathematical Analysis & Fourier Series |
-| 3 | Benson K Binu | Python Implementation |
-| 4 | Hargovind K R | Data Visualization & Graph Analysis |
-| 5 | Gautham A | Documentation & Testing |
 
 ## Project Summary
 
@@ -46,4 +48,4 @@ The results demonstrate the low-pass filtering effect of the diffusion equation 
 
 ```text
 ├── Project.ipynb
-└── README.md```
+└── README.md
