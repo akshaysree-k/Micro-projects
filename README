@@ -5,12 +5,11 @@
 ### Group Members
 
 
-
 | 1 | Akshay R | Group Leader & Project Coordination |
-| 2 | Akshay Sree Kalarical | Mathematical Analysis & Fourier Series |
+| 2 | Akshaysree Kalarickal | Mathematical Analysis & Fourier Series |
 | 3 | Benson K Binu | Python Implementation |
-| 4 | Hargovind KR | Data Visualization & Graph Analysis |
-| 5 | Gutham A | Documentation & Testing |
+| 4 | Hargovind K R | Data Visualization & Graph Analysis |
+| 5 | Gautham A | Documentation & Testing |
 
 ## Project Summary
 
@@ -46,5 +45,5 @@ The results demonstrate the low-pass filtering effect of the diffusion equation 
 ## Project Structure
 
 ```text
-├── 1D_Image_Blurring_MicroProject.ipynb
-└── README.md
+├── Project.ipynb
+└── README.md```
